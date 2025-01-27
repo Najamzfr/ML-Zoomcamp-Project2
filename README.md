@@ -1,4 +1,4 @@
-#Stock Market Analysis and Portfolio Optimization
+Stock Market Analysis and Portfolio Optimization
 
 This project is a comprehensive pipeline for stock market analysis, predictive modeling, and portfolio optimization. It involves the following key steps:
 
